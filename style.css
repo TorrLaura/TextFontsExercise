@@ -1,4 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
+
+html{
+    font-family: 'Orbitron', sans-serif;
+}
 span {
     font-weight: bold;
 }
@@ -17,17 +22,15 @@ h1{
 h1{
     text-decoration-line: underline;
 }
-{div id="series-movies
+#series-movies{
     font-size: 20px;
 
 }
-#series-movies{
- font-size: 20px;   
-}
+
 h2{
-    font-size: 5em;
+    font-size: 2em;
 }
-ol li{
+ li{
  line-height: 2;
 }
 div#characters{
@@ -37,8 +40,23 @@ h4{
     letter-spacing: 15px;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
-p{
+h4{
     font-family: 'press Start 2P', cursive
+}
+h2, h3, h4{
+    text-align: center;
+}
+li {
+    font-size: 1rem;
+}
+body{
+background-image: url(starTrek.jpg);
+}
+body{
+    color: rgba (255, 255, 255, 0.6);
+}
+body{
+    background-size: cover;
+    background-position: center;
 }
