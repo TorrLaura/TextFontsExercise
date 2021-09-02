@@ -65,7 +65,7 @@ h1{
     /* The Display Property */
     /* The Display property can be used to change elements to block, Inline, Inline-Block */
     /* The difference between Block and Inline-Block is that a Block element will always start on a new line, but, Inline- Block elements can be displayed next to each other on a single line */
-    /* The difference between Inline and Inline-Block is that unlike Inline, Inline Block allows a width and height to be set on the element, also  */
+    /* The difference between Inline and Inline-Block is that unlike Inline, Inline Block allows a width and height to be set on the element, also the top and bottom margins are respected */
      /* display: inline; */
      /* display: block; */
      
